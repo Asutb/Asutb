@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asutb (Asutosh Bishal)
-- 👀 I’m interested in: Full-stack development and web technologies.
+- 👀 I’m interested in: Full-stack development and AI/ML.
 - 🌱 I’m currently learning: Java, Python, CSS, HTML, JavaScript, MERN stack, DSA (Data Structures and Algorithms).
 - 💞️ I’m looking to collaborate on: Projects, ideas, and events.
 - 📫 How to reach me: Email me at Asutoshbishal19@gmail.com.
